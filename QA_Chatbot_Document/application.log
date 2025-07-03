@@ -1,0 +1,17 @@
+2025-07-01 18:04:59,435 - __main__ - INFO - Application started.
+2025-07-01 18:04:59,436 - __main__ - INFO - Directory 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data' ensured to exist.
+2025-07-01 18:04:59,437 - __main__ - INFO - Creating a dummy input file: C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\sample_data.txt
+2025-07-01 18:04:59,438 - __main__ - INFO - Starting data processing pipeline for 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\sample_data.txt'.
+2025-07-01 18:04:59,438 - __main__ - INFO - Successfully read 3 lines from 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\sample_data.txt'.
+2025-07-01 18:04:59,440 - __main__ - INFO - Finished processing 3 items.
+2025-07-01 18:04:59,441 - __main__ - INFO - Successfully saved 3 processed items to 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\processed_data.txt'.
+2025-07-01 18:04:59,441 - __main__ - INFO - Processed data saved to: C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\processed_data.txt
+2025-07-01 18:04:59,442 - __main__ - INFO - Application finished.
+2025-07-01 18:06:37,440 - __main__ - INFO - Application started.
+2025-07-01 18:06:37,442 - __main__ - INFO - Directory 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data' ensured to exist.
+2025-07-01 18:06:37,443 - __main__ - INFO - Starting data processing pipeline for 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\sample_data.txt'.
+2025-07-01 18:06:37,443 - __main__ - INFO - Successfully read 3 lines from 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\sample_data.txt'.
+2025-07-01 18:06:37,443 - __main__ - INFO - Finished processing 3 items.
+2025-07-01 18:06:37,445 - __main__ - INFO - Successfully saved 3 processed items to 'C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\processed_data.txt'.
+2025-07-01 18:06:37,446 - __main__ - INFO - Processed data saved to: C:\Users\dmax3\Documents\AI_Chatbot\Langchain\QA_RAG\data\processed_data.txt
+2025-07-01 18:06:37,447 - __main__ - INFO - Application finished.
